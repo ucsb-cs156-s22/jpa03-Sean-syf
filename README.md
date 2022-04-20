@@ -1,5 +1,7 @@
-# demo-spring-react-example-v2: dsre-v2
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-Sean-syf/branch/main/graph/badge.svg?token=kE1KRInbl9)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-Sean-syf)
+# jpa03-Sean-syf
+Repo: https://github.com/ucsb-cs156-s22/jpa03-Sean-syf/
+
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-Sean-syf-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-Sean-syf-docs-qa/>
